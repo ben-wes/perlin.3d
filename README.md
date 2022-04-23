@@ -2,7 +2,7 @@
 3D perlin noise for Pure Data (pd) - control signal input/output
 
 Install by adding the directory perlin.3d to one of pd's paths.
-The abstraction perlin.2d expects the arguments:
+The abstraction perlin.3d expects the arguments:
 * number of octaves
 * persistance value
 * "normalize" flag if you want to ensure that the sum of all octaves will never exceed 1
