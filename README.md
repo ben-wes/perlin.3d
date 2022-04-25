@@ -1,5 +1,5 @@
 # perlin.3d
-3D perlin noise for Pure Data (Pd) - control signal input/output
+3D perlin noise for Pure Data (Pd) - control rate input/output
 
 Install by adding a folder `perlin.3d` with these files to one of pd's paths.
 The abstraction `perlin.3d` expects the arguments:
